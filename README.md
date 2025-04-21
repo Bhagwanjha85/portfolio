@@ -15,7 +15,7 @@ The website is fully responsive and optimized for all devices — desktops, tabl
 ##  Technologies Used
 
 - HTML5
-- CSS3 (Flexbox, Grid, Media Queries)
+- CSS3
 - JavaScript (Vanilla JS)
 - Font Awesome (for icons)
 
