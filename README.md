@@ -6,7 +6,11 @@ A responsive and modern personal portfolio website built using HTML, CSS, and Ja
 
 - **About Section**: A short introduction about who I am, my interests, and my goals.
 - **Skills Section**: Highlights of my technical and non-technical skills.
-- **Projects Section**: A curated list of my top projects with descriptions and live/demo links.
+- **portfolio Section**: A curated list of my top projects with descriptions and live/demo links.
+- **Exp.**
+- **Contact us**
+- **Footer section**
+- 
 
 ##  Responsive Design
 
