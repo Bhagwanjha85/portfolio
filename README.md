@@ -10,7 +10,6 @@ A responsive and modern personal portfolio website built using HTML, CSS, and Ja
 - **Exp.**
 - **Contact us**
 - **Footer section**
-- 
 
 ##  Responsive Design
 
